@@ -1,0 +1,4 @@
+#Thu Apr 14 14:01:43 MSK 2022
+base.0=D\:\\Unity\\Happy Mattock\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
